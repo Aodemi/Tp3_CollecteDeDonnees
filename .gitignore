@@ -1,2 +1,5 @@
 venv/
 use_case/
+Data/custom_dataset/*.csv
+Data/use_case/*.csv
+*.csv
